@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hassan</h1>
 <h3 align="center">A passionate Frontend React Developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmul66&label=Profile%20views&color=0e75b6&style=flat" alt="nazmul66" /> </p>
 
